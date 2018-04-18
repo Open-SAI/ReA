@@ -1,2 +1,3 @@
-# ReA
-Proyecto Realidad Aumentada SENA - CGMLTI
+# Generación de prototipo
+En actualización. 
+

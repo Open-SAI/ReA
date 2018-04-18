@@ -1,2 +1,2 @@
-# ReA
-Proyecto Realidad Aumentada SENA - CGMLTI
+# Proceso de transferencia de conocimiento
+En actualización.
