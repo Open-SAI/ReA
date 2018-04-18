@@ -3,6 +3,8 @@ Repositorio del proyecto: *Consultoría y acompañamiento - Prototipo de Realida
 
 Este es el repositorio de recursos del proyecto descrito en http://rea.opensai.org.
 
+La siguiente es la tabla de artefactos entregables asociados al proyecto:
+
 <table width="665" cellspacing="0" cellpadding="4"><colgroup><col width="36"> <col width="324"> <col width="151"> <col width="119"></colgroup>
 
 <tbody>
