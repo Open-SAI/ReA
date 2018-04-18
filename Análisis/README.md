@@ -14,7 +14,7 @@ El proyecto actual busca realizar un proceso de investigación que identifique l
 
 ## Validación con el sector productivo 
 
-A nivel contractual es recomendable incluir una articulación efectiva del presente esfuerzo de investigación aplicada, con un entorno productivo real, de 
+A nivel contractual es recomendable incluir una articulación efectiva del presente esfuerzo de investigación aplicada, con un entorno productivo real, de la industria local, para entre otras cosas retroalimentar la iniciativa y cumplir el requisito de aplicabilidad y pertinencia de la misma.
 
 ## Difusión fuera del entorno académico del Centro de Gestión de Mercados, Logística y Tecnologías de la Investigación - CGMLTI 
 
