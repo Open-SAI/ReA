@@ -12,15 +12,17 @@ El proyecto actual busca realizar un proceso de investigación que identifique l
 * generar un proceso de transferencia de conocimiento que permita ofrecer una aproximación a las tecnologías identificadas en la investigación
 * generar una versión funcional de un prototipo, de libre acceso para reutilización en procesos de innovación futuros o simplemente para validar la NO viabilidad de dicha linea de investigación aplicada
 
-## Contexto
+## Validación con el sector productivo 
 
-[Ubicación del espacio de validación del prototipo:](https://www.google.com/maps/place/Centro+Empresarial+Metropolitano/@4.7350651,-74.2012662,12z/data=!4m5!3m4!1s0x8e3f839f3fec548f:0x7e52983f32c1a9c0!8m2!3d4.7521159!4d-74.1460096)
+A nivel contractual es recomendable incluir una articulación efectiva del presente esfuerzo de investigación aplicada, con un entorno productivo real, de 
 
-<img src="../src/centroEmpresarialMetropolitano.png">
+## Difusión fuera del entorno académico del Centro de Gestión de Mercados, Logística y Tecnologías de la Investigación - CGMLTI 
 
-Bodega:
+Como una aproximación inicial, se ha compartido parte del esfuerzo realizado en la presente iniciativa con comunidades académicas externas al SENA, que se encuentran articuladas al Ecosistema OpenSAI, en específico con la Universidad Minuto de Dios - UNIMINUTO - Villavicencio, gracias al convenio suscrito con ellos. 
 
-<img src="../src/bodegaevocom0.jpg">
+**La anterior exposición debe ser revalidada en otros espacios y comunidades**, se tiene proyectado presentar el presente trabajo durante el 2018 en:
+* Semana de la Ingeniería - Universidad Distrital Francisco José de Caldas
+* Ponencia oficial en REDCOLSI 
+* Presentación oficial en la Red UxTIC
 
-<img src="../src/bodegaevocom1.jpg">
-
+participaciones sujetas a disponibilidad de agenda y avances del proyecto.
