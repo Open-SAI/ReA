@@ -277,10 +277,10 @@ Describe una coordenada particular en bodega, esta coordenada se asocia a un dep
 
 </table>
 
-### Aplicación Dispositivo Smart Glass - ReASG
+## Aplicación Dispositivo Smart Glass - ReASG
 Es una aplicación programada para el Sistema Operativo Android, que funciona sobre el dispositivo Smart Glass EPSON BT-300. La última versión de la aplicación ha sido desarrollada en el entorno Processing.
 
-#### Flujo de trabajo de la aplicación
+### Flujo de trabajo de la aplicación
 1. El operario enciende el dispositivo smart glass y carga la aplicación
 1. La aplicación entra modo consulta de productos en espera de ser recogidos (proceso de picking)
 1. Si no se encuentra ningún producto en la cola, la aplicación presentará un ícono de carro de compras en verde
@@ -293,20 +293,20 @@ Es una aplicación programada para el Sistema Operativo Android, que funciona so
 ### Roles
 1. OPERARIO (Operario Picking ReASG): es el operario encargado en bodega de la búsqueda en bodega de los productos para el alistamiento de los pedidos, utiliza por lo tanto la aplicación el dispositivo smart glass para guiarse en dicha tarea.
 
-### Dispositivo complementario de autenticación (asociado al contenido pedagógico)
+## Dispositivo complementario de autenticación (asociado al contenido pedagógico)
 Es un sistema básico de autenticación compuesto de un módulo de hardware y una aplicación para el dispositivo smart glass. Es una implementación de un dispositivo tipo IoT, descrito en los contenidos pedagógicos generados en la ejecución del proyecto. Tiene como objetivo ilustrar el uso del entorno de desarrollo de Python Kivy, junto con la fabricación y programación de un dispositivo de hardware autónomo, que se conecta e interactúa con el dispositivo smart glass.
 
 <img src="../src/ReAAuthProxF0.jpg">
 <img src="../src/ReAAuthProxF1.jpg">
 <img src="../src/ReAAuthProxF2.jpg">
 
-#### Operación
-##### Prerequisitos:
+### Operación
+#### Prerequisitos:
 1. Se debe encender el dispositivo de hardware complementario y configurar su conexión automática al dispositivo smart glass
 1. Se debe configurar el dispositivo smart glass para que arranque de manera automática la aplicación desarrollada en Kivy.
 1. Se debe configurar la Aplicación dispositivo Smart Glass, para que verifique la existencia del archivo de bloqueo generado por el Dispositivo complementario de autenticación.
 
-#### Operación:
+### Operación:
 * Utilizando una tarjeta de proximidad, el operario en bodega se autentica frente al dispositivo smart glass (internamente la aplicación genera un archivo de bloqueo que será utilizado para validar la sesión desde la Aplicación dispositivo Smart Glass descrita anteriormente)
 * Al iniciar la Aplicación dispositivo Smart Glass, si la autenticación con tarjeta fué exitosa funcionará normalmente, en caso contrario solicitará su autenticación por tarjeta.
 
