@@ -16,6 +16,16 @@ El proyecto actual busca realizar un proceso de investigación que identifique l
 
 A nivel contractual es recomendable incluir una articulación efectiva del presente esfuerzo de investigación aplicada, con un entorno productivo real, de la industria local, para entre otras cosas retroalimentar la iniciativa y cumplir el requisito de aplicabilidad y pertinencia de la misma.
 
+[Ubicación del espacio de validación del prototipo:](https://www.google.com/maps/place/Centro+Empresarial+Metropolitano/@4.7350651,-74.2012662,12z/data=!4m5!3m4!1s0x8e3f839f3fec548f:0x7e52983f32c1a9c0!8m2!3d4.7521159!4d-74.1460096)
+
+<img src="../src/centroEmpresarialMetropolitano.png">
+
+Bodega:
+
+<img src="../src/bodegaevocom0.jpg">
+
+<img src="../src/bodegaevocom1.jpg">
+
 ## Difusión fuera del entorno académico del Centro de Gestión de Mercados, Logística y Tecnologías de la Investigación - CGMLTI 
 
 Como una aproximación inicial, se ha compartido parte del esfuerzo realizado en la presente iniciativa con comunidades académicas externas al SENA, que se encuentran articuladas al Ecosistema OpenSAI, en específico con la Universidad Minuto de Dios - UNIMINUTO - Villavicencio, gracias al convenio suscrito con ellos. 
