@@ -1,6 +1,7 @@
 # Diseño de prototipo 
 <img src="../src/rea0.jpg">
 La versión final del prototipo tiene dos componentes principales: Sistema de Gestión de Picking y la Aplicación en el Dispositivo Smart Glass.
+
 ## Sistema de Gestión de Picking - SGP
 Es un aplicativo que está configurado para funcionar en la web, bajo un entorno LAMP (Linux - Apache - MariaDB - PHP). Funciona sobre un sistema administrador de contenidos (Joomla CMS), que tiene una arquitectura MVC (Modelo Vista Controlador).
 
