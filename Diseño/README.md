@@ -295,6 +295,10 @@ Es una aplicación programada para el Sistema Operativo Android, que funciona so
 ### Dispositivo complementario de autenticación (asociado al contenido pedagógico)
 Es un sistema básico de autenticación compuesto de un módulo de hardware y una aplicación para el dispositivo smart glass. Es una implementación de un dispositivo tipo IoT, descrito en los contenidos pedagógicos generados en la ejecución del proyecto. Tiene como objetivo ilustrar el uso del entorno de desarrollo de Python Kivy, junto con la fabricación y programación de un dispositivo de hardware autónomo, que se conecta e interactúa con el dispositivo smart glass.
 
+<img src="../src/ReAAuthProx0.jpg">
+<img src="../src/ReAAuthProx1.jpg">
+<img src="../src/ReAAuthProx2.jpg">
+
 #### Operación
 ##### Prerequisitos:
 1. Se debe encender el dispositivo de hardware complementario y configurar su conexión automática al dispositivo smart glass
