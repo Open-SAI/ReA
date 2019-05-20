@@ -167,8 +167,47 @@ Describe un deposito particular en bodega, este depósito se asociaría a un pro
 
 <td>Serial</td>
 
+<td>Identificador alfanumérico del depósito en bodega</td>
+
+</tr>
+
+<tr>
+
+<td>position_name</td>
+
+<td>Nombre</td>
+
+<td>Nombre del depósito en bodega</td>
+
+</tr>
+
+<tr>
+
+<td>position_details</td>
+
+<td>Descripción</td>
+
+<td>Descripción del depósito en bodega</td>
+
+</tr>
+
+<tr>
+
+<td>location</td>
+
+<td>Localización</td>
+
+<td>Serial de la coordenada en bodega asociada a este depósito en particular</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
 #### Posicionamiento
 Describe una coordenada particular en bodega, esta coordenada se asocia a un depósito en particular.
+
 <table style="border-width: thin; border-color: #e6e6fa; margin-left: auto; margin-right: auto;" rules="rows">
 
 <tbody>
@@ -236,6 +275,7 @@ Describe una coordenada particular en bodega, esta coordenada se asocia a un dep
 </tbody>
 
 </table>
+
 ### Aplicación Dispositivo Smart Glass - ReASG
 Es una aplicación programada para el Sistema Operativo Android, que funciona sobre el dispositivo Smart Glass EPSON BT-300. La última versión de la aplicación ha sido desarrollada en el entorno Processing.
 
