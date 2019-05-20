@@ -31,11 +31,11 @@ Describe a un producto del inventario de la bodega.
 
 <tr>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Nombre**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Nombre</span></td>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Etiqueta**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Etiqueta</span></td>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Descripción**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Descripción</span></td>
 
 </tr>
 
@@ -133,11 +133,11 @@ Describe un deposito particular en bodega, este depósito se asociaría a un pro
 
 <tr>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Nombre**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Nombre</span></td>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Etiqueta**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Etiqueta</span></td>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Descripción**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Descripción</span></td>
 
 </tr>
 
@@ -214,11 +214,11 @@ Describe una coordenada particular en bodega, esta coordenada se asocia a un dep
 
 <tr>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Nombre**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Nombre</span></td>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Etiqueta**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Etiqueta</span></td>
 
-<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">**Descripción**</span></td>
+<td style="background-color: #a9a9a9; text-align: center; vertical-align: middle;"><span style="color: #ffffff;">Descripción</span></td>
 
 </tr>
 
@@ -295,9 +295,9 @@ Es una aplicación programada para el Sistema Operativo Android, que funciona so
 ### Dispositivo complementario de autenticación (asociado al contenido pedagógico)
 Es un sistema básico de autenticación compuesto de un módulo de hardware y una aplicación para el dispositivo smart glass. Es una implementación de un dispositivo tipo IoT, descrito en los contenidos pedagógicos generados en la ejecución del proyecto. Tiene como objetivo ilustrar el uso del entorno de desarrollo de Python Kivy, junto con la fabricación y programación de un dispositivo de hardware autónomo, que se conecta e interactúa con el dispositivo smart glass.
 
-<img src="../src/ReAAuthProx0.jpg">
-<img src="../src/ReAAuthProx1.jpg">
-<img src="../src/ReAAuthProx2.jpg">
+<img src="../src/ReAAuthProxF0.jpg">
+<img src="../src/ReAAuthProxF1.jpg">
+<img src="../src/ReAAuthProxF2.jpg">
 
 #### Operación
 ##### Prerequisitos:
